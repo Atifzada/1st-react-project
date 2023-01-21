@@ -1,6 +1,6 @@
 
 
-const AllMeetupsPage = () => {
+function AllMeetupsPage() {
     return <div>All Meetups Page</div>;
   } 
   
